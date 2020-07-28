@@ -40,5 +40,5 @@ s.quit()
 
 
 - 회원가입 페이지 
-![ex_screenshot](images/0728-1.jpg)
+![ex_screenshot](images/0728-1.JPG)
 
