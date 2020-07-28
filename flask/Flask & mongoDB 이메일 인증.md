@@ -2,8 +2,9 @@
 Flask & mongoDB 이메일 인증
 ==========================
 
-  - 파이썬으로 이메일 전송하는 코드 
-  ``` python
+- 파이썬으로 이메일 전송하는 코드 
+
+``` python
   import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -37,3 +38,4 @@ s.sendmail(me, you, msg.as_string())
 s.quit()
   ```
 
+-
