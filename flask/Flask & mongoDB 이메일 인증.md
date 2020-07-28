@@ -39,35 +39,47 @@ s.quit()
   ```  
 <br><br/>
 
-1. 회원가입 페이지   
+#1. 회원가입 페이지   
 <br><br/>
 
 ![screenshot1](/image/0728-1.JPG)  
 
 <br><br/>
-2. 이메일 인증 버튼 누르기
+#2. 이메일 인증 버튼 누르기
+<br><br/>
 
 ![screenshot1](/image/0728-2.JPG)  
 
-3. 이메일 인증 코드 전송
+<br><br/>
+#3. 이메일 인증 코드 전송
+<br><br/>
 
 ![screenshot1](/image/0728-3.JPG)  
 
-4. 인증번호 입력
+<br><br/>
+#4. 인증번호 입력
+<br><br/>
 
 ![screenshot1](/image/0728-4.JPG)  
 
-5. 회원가입 완료
+<br><br/>
+#5. 회원가입 완료
+<br><br/>
 
 ![screenshot1](/image/0728-5.JPG)  
 
-6. 로그인
+<br><br/>
+#6. 로그인
+<br><br/>
 
 ![screenshot1](/image/0728-6.JPG)  
 
-7. 메인 화면
+<br><br/>
+#7. 메인 화면
+<br><br/>
 
 ![screenshot1](/image/0728-7.JPG)  
 
+<br><br/>
 
 
