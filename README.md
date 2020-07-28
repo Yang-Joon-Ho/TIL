@@ -3,5 +3,5 @@
 하루하루 배운것들 기록
 ======================
 
-1.flask
-  -[flask 기초] (/TIL/flask/flask기초.md)
++ flask
+  - [flask 기초](/TIL/flask/flask기초.md)
