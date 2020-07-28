@@ -4,4 +4,4 @@
 ======================
 
 + flask
-  - [flask 기초](TIL/flask/flask기초.md)
+  - [flask 기초](TIL/flask/flask기초)
