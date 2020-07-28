@@ -37,11 +37,14 @@ s.sendmail(me, you, msg.as_string())
 # 프로그램을 종료합니다.
 s.quit()
   ```  
-<br/>
+<br><br/>
+
 1. 회원가입 페이지   
-<br/>
+<br><br/>
+
 ![screenshot1](/image/0728-1.JPG)  
-<br/>
+
+<br><br/>
 2. 이메일 인증 버튼 누르기
 
 ![screenshot1](/image/0728-2.JPG)  
