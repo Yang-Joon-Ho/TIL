@@ -2,13 +2,7 @@
 Flask & mongoDB 이메일 인증
 ==========================  
 
-
-
-
 - 파이썬으로 이메일 전송하는 코드  
-
-
-
 
 ``` python
   import smtplib
@@ -44,15 +38,24 @@ s.sendmail(me, you, msg.as_string())
 s.quit()
   ```  
 
-
-
-
-
-- 회원가입 페이지   
-
-
+1. 회원가입 페이지   
 
 ![screenshot1](/image/0728-1.JPG)  
+
+2. 이메일 인증 버튼 누르기
+
+![screenshot1](/image/0728-2.JPG)  
+
+3. 이메일 인증 코드 전송 
+![screenshot1](/image/0728-3.JPG)  
+4. 인증번호 입력
+![screenshot1](/image/0728-4.JPG)  
+5. 회원가입 완료
+![screenshot1](/image/0728-5.JPG)  
+6. 로그인
+![screenshot1](/image/0728-6.JPG)  
+7. 메인 화면 
+![screenshot1](/image/0728-7.JPG)  
 
 
 
