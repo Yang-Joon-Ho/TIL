@@ -4,4 +4,4 @@
 ======================
 
 + flask
-  - [flask 기초](flask/flask기초.md)
+  - [flask 이메일 인증 회원가입](flask/Flask & mongoDB 이메일 인증.md)
