@@ -46,15 +46,24 @@ s.quit()
 
 ![screenshot1](/image/0728-2.JPG)  
 
-3. 이메일 인증 코드 전송 
+3. 이메일 인증 코드 전송
+
 ![screenshot1](/image/0728-3.JPG)  
+
 4. 인증번호 입력
+
 ![screenshot1](/image/0728-4.JPG)  
+
 5. 회원가입 완료
+
 ![screenshot1](/image/0728-5.JPG)  
+
 6. 로그인
+
 ![screenshot1](/image/0728-6.JPG)  
-7. 메인 화면 
+
+7. 메인 화면
+
 ![screenshot1](/image/0728-7.JPG)  
 
 
