@@ -10,3 +10,4 @@
 
 + Algorithm
   - [프로그래머스 레벨2 - 후보키 - 2020-07-29](Algorithm/Programmers/Level2/후보키.md)
+  - [프로그래머스 레벨2 - 방금 그 곡 - 2020-07-29](Algorithm/Programmers/Level2/방금그곡.md)
