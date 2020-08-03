@@ -5,6 +5,8 @@
 
 + Flask
   - [flask 이메일 인증 회원가입 - 2020-07-28](flask/Flask&mongoDB이메일인증.md)
+  - [flask 메모 기능 추가 - 2020-08-03](flask/메모기능추가.md)
+  
 
 <br><br>
 
