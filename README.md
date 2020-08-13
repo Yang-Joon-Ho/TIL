@@ -19,3 +19,4 @@
   - [Cos pro 1 - 1차](https://github.com/butcher313/cos-pro-1)
   - [프로그래머스 레벨2 - 124나라 복습](https://github.com/butcher313/programmers-level2/blob/master/124%EB%82%98%EB%9D%BC-%EC%A0%95%EB%8B%B5.cpp)
   - [프로그래머스 레벨2 - 주식 가격 복습](https://github.com/butcher313/programmers-level2/blob/master/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9(%EB%B3%B5%EC%8A%B5).cpp)
+  - [프로그래머스 레벨3 - n으로 표현](https://gist.github.com/butcher313/625ef12479aa58d866348bc2cf1c2ef3)
