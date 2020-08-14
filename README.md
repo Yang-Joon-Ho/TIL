@@ -21,3 +21,4 @@
   - [프로그래머스 레벨2 - 주식 가격 복습](https://github.com/butcher313/programmers-level2/blob/master/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9(%EB%B3%B5%EC%8A%B5).cpp)
   - [프로그래머스 레벨3 - n으로 표현](https://gist.github.com/butcher313/625ef12479aa58d866348bc2cf1c2ef3)
   - [프로그래머스 레벨3 - 2*n 타일링](https://github.com/butcher313/Programmers-level-3/blob/master/2xn%ED%83%80%EC%9D%BC%EB%A7%81.cpp)
+  - [프로그래머스 레벨3 - 타겟 넘버 복습](https://github.com/butcher313/programmers-level2/blob/master/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.cpp)
