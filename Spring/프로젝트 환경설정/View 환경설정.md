@@ -9,3 +9,34 @@
 
     html 파일을 띄울 수 있게 도와주는 템플릿 엔진이다. 
     템플릿 엔진이란 html과 같은 문서를 출력하는 소프트웨어를 말한다.
+
+### 2. Controller 
+
+<br>
+
+    웹 어플리케이션에서 첫 번째 진입점이다.  
+    
+![1](https://github.com/butcher313/TIL/blob/master/image/1.JPG)
+
+
+    컨트롤러는 @Controller라는 annotation을 써준다.
+    * annotation : 메타-테이터(Meta-Data) : 데이터를 위한 데이터를 의미하며, 풀어 이야기하면 한 데이터에 대한 설명을 의미하는 데이     터. (자신의 정보를 담고 있는 데이터)
+    
+    hello라는 페이지에 대한 GET 요청이 들어오면 스프링이 만든 model을 통해 "hello!!"라는 데이터를 넘겨주며
+    컨트롤러는 최종적으로 "hello"라는 페이지를 반환한다. 
+    
+    그러면 view resolver는 페이지를 받아서 템플릿 엔진을 통해 hello.html에 "hello!!"를 반영하고 
+    이를 랜더링한다.
+    
+<br>
+
+![2](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810829/2.JPG)
+
+<br>
+
+![3](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810829/3.JPG)
+
+<br>
+
+    위의 이미지에서 ${data} 이부분이 hello!!로 바뀌게 된다. 
+    
