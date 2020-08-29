@@ -40,3 +40,27 @@
 
     위의 이미지에서 ${data} 이부분이 hello!!로 바뀌게 된다. 
     
+<br>
+<br>
+
+### 3. 빌드하고 실행하기
+
+<br>
+
+![4](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810829/4.JPG)
+
+    cmd를 통해 프로젝트 폴더로 이동, gradlew.bat build 명령어로 빌드한다. 
+    
+<br>
+
+![5](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810829/5.JPG)
+
+    그러면 .jar 파일이 생성되는데 이를 자바로 실행시킨다. 
+    
+<br>
+
+![6](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810829/6.JPG)
+
+    위와같이 html 페이지가 잘 뜨는것을 볼 수 있다.
+
+    
