@@ -44,3 +44,4 @@
   - [프로그래머스 레벨3 - 이중 우선순위 큐](https://github.com/butcher313/Programmers-level-3/blob/master/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.md)
   - [프로그래머스 레벨3 - 디스크 컨트롤러](https://github.com/butcher313/Programmers-level-3/blob/master/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.md)
   - [프로그래머스 레벨3 - 베스트 앨범](https://github.com/butcher313/Programmers-level-3/blob/master/%EB%B2%A0%EC%8A%A4%ED%8A%B8%20%EC%95%A8%EB%B2%94.md)
+  - [프로그래머스 레벨2 - 구명 보트 복습](https://github.com/butcher313/programmers-level2/blob/master/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8(%EB%B3%B5%EC%8A%B5).md)
