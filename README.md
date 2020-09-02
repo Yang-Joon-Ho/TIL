@@ -48,3 +48,4 @@
   - [프로그래머스 레벨2 - 구명 보트 복습](https://github.com/butcher313/programmers-level2/blob/master/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8(%EB%B3%B5%EC%8A%B5).md)
   - [프로그래머스 레벨3 - 섬 연결하기](https://github.com/butcher313/Programmers-level-3/blob/master/%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.md)
   - [프로그래머스 레벨3 - 단속 카메라](https://github.com/butcher313/Programmers-level-3/blob/master/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.md)
+  - [프로그래머스 레벨3 - n으로 표현 복습](https://github.com/butcher313/Programmers-level-3/blob/master/n%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84.cpp)
