@@ -36,3 +36,23 @@
     create(MemberForm form) 메소드 실행, 스프링이 MemberForm 객체를 생성하면서 name을 setName() 매개변수로 넣어줌. 
     그리고 Member 객체를 생성하고, 이를 memberService.join에 넘긴다. 
     이게 회원 가입 등록 루틴이다.  
+
+<br>
+<br>
+
+### 3. 회원 조회
+
+<br>
+
+![5](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810902/3-1.JPG)
+    
+        메인 페이지에서 회원 목록 버튼을 누른다. 
+        
+<br>
+
+![6](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810902/5.JPG) 
+
+![7](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810902/6.JPG)
+
+    members에 대한 Get 요청이 오면 회원정보 리스트를 모델에 담아서 넘기고, 회원 목록 조회 페이지로 이동한다. 
+    그럼 해당 html 페이지에서 thymeleaf가 랜더링하여 화면에 보여준다. 
