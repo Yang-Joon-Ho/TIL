@@ -148,3 +148,28 @@
 ![17](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810906/10.JPG)
 
     위와같이 하이버네이트에서 중복 회원이 있는지 찾는 select 쿼리와 DB에 저장하는 insert 쿼리가 작동하는것을 볼 수 있다. 
+    
+<br>
+<br>
+
+### 5. 스프링 데이터 JPA
+
+<br>
+
+#### 1) /repository/SpringDataJpaMemberRepository
+
+![18](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810906/11.JPG)
+
+<br>
+
+#### 2) SpringConfig
+
+![19](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810906/12.JPG)
+
+![20](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810906/13.JPG
+
+<br>
+
+
+
+    
