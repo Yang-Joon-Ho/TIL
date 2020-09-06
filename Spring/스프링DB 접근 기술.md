@@ -86,3 +86,59 @@
 <br>
 
 ### 4. JPA
+
+<br>
+
+    jpa는 인터페이스이다. 구현은 여러 업체에서 하는데 그 중 하나가 hibernate이다. jpa는 ORM(Object Relational Mapping) 개념을 사용하는데, 
+    즉, 객체와 관계형 데이터베이스를 매핑한다는 얘기이다.
+    
+<br>
+
+#### 1) Spring Configuration
+<br>
+
+![9](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810906/2.JPG)
+![10](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810906/3.JPG)
+
+    Entitiy manager 의존성 주입
+    
+<br>
+
+#### 2) application properties
+
+<br>
+
+![11](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810906/4.JPG)
+
+#### 3) build.gradle
+
+<br>
+
+![12](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810906/5.JPG)
+
+<br>
+
+#### 4) JpaMemberRepository
+
+<br>
+
+![13](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810906/6.JPG)
+![14](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810906/7.JPG)
+
+#### 5) Member
+
+<br>
+
+![15](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810906/8.JPG)
+
+    private String name; 위에 annotation은 적어놓지 않아도 되지만 설명을 위해서 적었다. 
+
+<br>
+
+#### 6) MemberService
+
+<br>
+
+![16](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810906/9.JPG)
+
+
