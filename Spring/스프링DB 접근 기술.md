@@ -64,3 +64,25 @@
 
 ![7](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810906/jdbcTemplate3.JPG)
 
+
+<br>
+
+### 3. 테스트 
+
+<br>
+
+![8](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810906/%ED%85%8C%EC%8A%A4%ED%8A%B8.JPG)
+
+<br>
+
+    테스트는 앞서 만들어놓은 테스트 코드와 별반 다르지 않다.
+    
+    다만 클래스 위에 @Transactional이라는 annotation을 적어놓음으로써 테스트 단위끼리 서로
+    충돌이 일어나는 경우를 방지하였다.
+    
+    그리고 memberService와 memberRepository를 @Autowired로 해주었다. 따로 생성자를 만들어서 하기도 하지만 테스트에서 굳이 그럴 필요가 없다. 
+    
+<br>
+<br>
+
+### 4. JPA
