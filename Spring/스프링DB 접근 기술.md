@@ -141,4 +141,10 @@
 
 ![16](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810906/9.JPG)
 
+<br>
 
+#### 7) 회원가입 테스트 시 어떤일이 발생하는가 
+
+![17](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810906/10.JPG)
+
+    위와같이 하이버네이트에서 중복 회원이 있는지 찾는 select 쿼리와 DB에 저장하는 insert 쿼리가 작동하는것을 볼 수 있다. 
