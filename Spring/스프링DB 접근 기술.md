@@ -160,6 +160,8 @@
 
 ![18](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810906/11.JPG)
 
+    findByName 이라고 선언만 한 부분이 select m from Member m where m.name = ?  이와 같이 jpqa로 바뀐다.
+
 <br>
 
 #### 2) SpringConfig
@@ -170,6 +172,14 @@
 
 <br>
 
+#### 3) 스프링 데이터 JPA에 의해 자동으로 구현되는 메소드들 
+
+![21](https://github.com/butcher313/TIL/blob/master/image/%EC%8A%A4%ED%94%84%EB%A7%810906/14.JPG)
+
+    어지간한 쿼리는 스프링 데이터 JPA에서 이미 구현이 되어있다. 그래서 위의 1) Repository에서 findByName만 
+    선언을 한 것이다. 
+    
+    
 
 
     
