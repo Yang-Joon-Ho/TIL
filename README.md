@@ -51,3 +51,4 @@
   - [프로그래머스 레벨3 - 단속 카메라](https://github.com/butcher313/Programmers-level-3/blob/master/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.md)
   - [프로그래머스 레벨3 - n으로 표현 복습](https://github.com/butcher313/Programmers-level-3/blob/master/n%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84.cpp)
   - [프로그래머스 레벨3 - 등굣길](https://github.com/butcher313/Programmers-level-3/blob/master/%EB%93%B1%EA%B5%A3%EA%B8%B8.md)
+  - [프로그래머스 레벨3 - 도둑질](https://github.com/butcher313/Programmers-level-3/blob/master/%EB%8F%84%EB%91%91%EC%A7%88.md)
