@@ -65,3 +65,6 @@
 
 ![8](https://github.com/butcher313/TIL/blob/master/image/0908/AOP/8.JPG)
     
+    AOP도 결국 DI에 기반한 기술이다. 왜? Controller 입장에서는 난 뭔지 모르겠지만 일단 Service 가져다 쓸께 하는건데 
+    실제로는 가짜 Service가 DI(dependent injection) 되는것이기 때문이다. 
+    만약 DI가 없고 new()로 클래스를 선언해서 매개변수로 넣어줘야 한다면 AOP는 불가능한 기술일 것이다. 
