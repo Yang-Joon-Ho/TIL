@@ -60,4 +60,5 @@
   - [카카오 2020 하반기 공채 - 프로그래밍1](https://github.com/butcher313/Kakao/blob/master/2020.09.12(%ED%95%98%EB%B0%98%EA%B8%B0%20%EA%B3%B5%EC%B1%84)/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D1.md)
   - [백준 그리디 - 동전 0](https://github.com/butcher313/BOJ/blob/master/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%8F%99%EC%A0%84%200.md)
   - [백준 그리디 - 회의실 배정](https://github.com/butcher313/BOJ/blob/master/%EA%B7%B8%EB%A6%AC%EB%94%94/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.md)
-  - [백준 이분 탐색 - 입국 심사](https://github.com/butcher313/BOJ/blob/master/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%9E%85%EA%B5%AD%20%EC%8B%AC%EC%82%AC.md)
+  - [프로그래머스 레벨3 - 이분 탐색 - 입국 심사](https://github.com/butcher313/BOJ/blob/master/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%9E%85%EA%B5%AD%20%EC%8B%AC%EC%82%AC.md)
+  - [백준 이분 탐색 - 나무 자르기](https://github.com/butcher313/BOJ/blob/master/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.md)
