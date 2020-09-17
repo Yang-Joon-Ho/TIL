@@ -66,3 +66,4 @@
   - [백준 구현 - 감시](https://github.com/butcher313/BOJ/blob/master/%EA%B5%AC%ED%98%84/%EA%B0%90%EC%8B%9C.md)
   - [프로그래머스 - 그래프 - 가장 먼 노드](https://github.com/butcher313/Programmers-level-3/blob/master/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.md)
   - [프로그래머스 - 그래프 - 순위](https://github.com/butcher313/Programmers-level-3/blob/master/%EC%88%9C%EC%9C%84.md)
+  - [백준 - BFS - 미로 탐색](https://github.com/butcher313/BOJ/blob/master/DFS-BFS/%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89.md)
