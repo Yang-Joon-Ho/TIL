@@ -73,3 +73,5 @@
   - [프로그래머스 - 가장 긴 팰린드롬](https://github.com/Yang-Joon-Ho/Programmers-level-3/blob/master/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8E%A0%EB%A6%B0%EB%93%9C%EB%A1%AC.md)
   - [프로그래머스 - 정렬 - H-index](https://github.com/Yang-Joon-Ho/programmers-level2/blob/master/H-index.md)
   - [LeetCode - Max Increase to Keep City Skyline](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Max%20Increase%20to%20Keep%20City%20Skyline.md)
+  - [LeetCode - 1395. Count Number of Teams](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/1395.%20Count%20Number%20of%20Teams.md)
+  - [LeetCode - 1302. Deepest Leaves Sum](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Tree/1302.%20Deepest%20Leaves%20Sum.md)
