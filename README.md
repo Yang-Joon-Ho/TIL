@@ -75,3 +75,4 @@
   - [LeetCode - Max Increase to Keep City Skyline](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Max%20Increase%20to%20Keep%20City%20Skyline.md)
   - [LeetCode - 1395. Count Number of Teams](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/1395.%20Count%20Number%20of%20Teams.md)
   - [LeetCode - 1302. Deepest Leaves Sum](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Tree/1302.%20Deepest%20Leaves%20Sum.md)
+  - [LeetCode - 1038. Binary Search Tree to Greater Sum Tree](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Tree/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.md)
