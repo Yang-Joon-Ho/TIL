@@ -79,3 +79,4 @@
   - [LeetCode - 1409. Queries on a Permutation With Key](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/1409.%20Queries%20on%20a%20Permutation%20With%20Key.md)
   - [LeetCode - 654. Maximum Binary Tree](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Tree/654.%20Maximum%20Binary%20Tree.md)
   - [LeetCode - 1561. Maximum Number of Coins You Can Get](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Maximum%20Number%20of%20Coins%20You%20Can%20Get.md)
+  - [1329. Sort the Matrix Diagonally](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/1329.%20Sort%20the%20Matrix%20Diagonally.md)
