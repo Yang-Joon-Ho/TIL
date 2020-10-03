@@ -82,3 +82,4 @@
   - [LeetCode - 1329. Sort the Matrix Diagonally](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/1329.%20Sort%20the%20Matrix%20Diagonally.md)
   - [LeetCode - 950. Reveal Cards In Increasing Order](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/950.%20Reveal%20Cards%20In%20Increasing%20Order.md)
   - [LeetCode - 797. All Paths From Source to Target](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Graph/797.%20All%20Paths%20From%20Source%20to%20Target.md)
+  - [LeetCode - 1551. Minimum Operations to Make Array Equal](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/1551.%20Minimum%20Operations%20to%20Make%20Array%20Equal.md)
