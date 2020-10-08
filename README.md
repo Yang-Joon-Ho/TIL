@@ -85,3 +85,4 @@
   - [LeetCode - 1551. Minimum Operations to Make Array Equal](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/1551.%20Minimum%20Operations%20to%20Make%20Array%20Equal.md)
   - [LeetCode - 763. Partition Labels](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/763.%20Partition%20Labels.md)
   - [LeetCode - 1079. Letter Tile Possibilities](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/1079.%20Letter%20Tile%20Possibilities.md)
+  - [LeetCode - 921. Minimum Add to Make Parentheses Valid](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.md)
