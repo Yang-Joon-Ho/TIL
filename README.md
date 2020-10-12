@@ -91,4 +91,4 @@
   - [LeetCode - 1605. Find Valid Matrix Given Row and Column Sums](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/1605.%20Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums.md)
   - [LeetCode - 890. Find and Replace Pattern](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/890.%20Find%20and%20Replace%20Pattern.md)
   - [LeetCode - 1314. Matrix Block Sum](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/1314.%20Matrix%20Block%20Sum.md)
-  - [LeetCode - 1207. Unique Number of Occurrences](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/1207.%20Unique%20Number%20of%20Occurrences.md)
+  - [LeetCode - 1207. Unique Number of Occurrences](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/1207.%20Unique%20Number%20of%20Occurrences.md)
