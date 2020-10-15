@@ -95,3 +95,4 @@
   - [LeetCode - 136. Single Number](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/136.%20Single%20Number.md)
   - [LeetCode - 169. Majority Element](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/169.%20Majority%20Element.md)
   - [LeetCode - 1380. Lucky Numbers in a Matrix](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/1380.%20Lucky%20Numbers%20in%20a%20Matrix.md)
+  - [LeetCode - 1572. Matrix Diagonal Sum](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/1572.%20Matrix%20Diagonal%20Sum.md)
