@@ -99,3 +99,4 @@
   - [LeetCode - 1021. Remove Outermost Parentheses](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/1021.%20Remove%20Outermost%20Parentheses.md)
   - [LeetCode - 557. Reverse Words in a String III](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/557.%20Reverse%20Words%20in%20a%20String%20III.md)
   - [LeetCode - 804. Unique Morse Code Words](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/804.%20Unique%20Morse%20Code%20Words.md)
+  - [LeetCode - 1464. Maximum Product of Two Elements in an Array](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.md)
