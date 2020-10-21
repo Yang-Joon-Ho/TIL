@@ -112,3 +112,4 @@
     - [LeetCode - 1047. Remove All Adjacent Duplicates In String](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.md)
     - [LeetCode - 1502. Can Make Arithmetic Progression From Sequence](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.md)
     - [LeetCode - 1356. Sort Integers by The Number of 1 Bits](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Bits-operation/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.md)
+    - [LeetCode - 766. Toeplitz Matrix](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Matrix/766.%20Toeplitz%20Matrix.md)
