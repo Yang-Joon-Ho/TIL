@@ -114,3 +114,5 @@
     - [LeetCode - 1356. Sort Integers by The Number of 1 Bits](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Bits-operation/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.md)
     - [LeetCode - 766. Toeplitz Matrix](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Matrix/766.%20Toeplitz%20Matrix.md)
     - [LeetCode - 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/String/1455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.md)
+    - [LeetCode - 1624. Largest Substring Between Two Equal Characters
+](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/String/1624.%20Largest%20Substring%20Between%20Two%20Equal%20Characters.md)
