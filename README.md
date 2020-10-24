@@ -118,4 +118,4 @@
 ](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/String/1624.%20Largest%20Substring%20Between%20Two%20Equal%20Characters.md)
     - [**LeetCode - 1002. Find Common Characters](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/String/**1002.%20Find%20Common%20Characters.md)
     - [LeetCode - 1413. Minimum Value to Get Positive Step by Step Sum](https://github.com/Yang-Joon-Ho/LeetCode/tree/master/Easy/Dynamic_programming)
-    - [LeerCode - 476. Number Complement](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Bits-operation/476.%20Number%20Complement.md)
+    - [LeetCode - 476. Number Complement](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Bits-operation/476.%20Number%20Complement.md)
