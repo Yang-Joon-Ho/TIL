@@ -76,8 +76,8 @@
     - [프로그래머스 - 가장 긴 팰린드롬](https://github.com/Yang-Joon-Ho/Programmers-level-3/blob/master/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8E%A0%EB%A6%B0%EB%93%9C%EB%A1%AC.md)
     - [프로그래머스 - 정렬 - H-index](https://github.com/Yang-Joon-Ho/programmers-level2/blob/master/H-index.md)
     - [프로그래머스 레벨2 - 카펫(복습)](https://github.com/Yang-Joon-Ho/programmers-level2/blob/master/%EC%B9%B4%ED%8E%AB(%EB%B3%B5%EC%8A%B5).md)
-    - [프로그래머스 레벨 2- 큰 수 만들기(복습)](https://github.com/Yang-Joon-Ho/programmers-level2/blob/master/%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(%EB%B3%B5%EC%8A%B5).md)
-
+    - [프로그래머스 레벨 2 - 큰 수 만들기(복습)](https://github.com/Yang-Joon-Ho/programmers-level2/blob/master/%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(%EB%B3%B5%EC%8A%B5).md)
+    - [프로그래머스 레벨 2- 조이스틱(복습)](https://github.com/Yang-Joon-Ho/programmers-level2/blob/master/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1(%EB%B3%B5%EC%8A%B5).md)
     
   <br>
   
