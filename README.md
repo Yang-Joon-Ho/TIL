@@ -120,3 +120,4 @@
     - [LeetCode - 1413. Minimum Value to Get Positive Step by Step Sum](https://github.com/Yang-Joon-Ho/LeetCode/tree/master/Easy/Dynamic_programming)
     - [LeetCode - 476. Number Complement](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Bits-operation/476.%20Number%20Complement.md)
     - [프로그래머스 레벨2 - 카펫(복습)](https://github.com/Yang-Joon-Ho/programmers-level2/blob/master/%EC%B9%B4%ED%8E%AB(%EB%B3%B5%EC%8A%B5).md)
+    - [LeetCode - 888. Fair Candy Swap](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Array/888.%20Fair%20Candy%20Swap.md)
