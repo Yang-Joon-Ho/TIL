@@ -128,3 +128,4 @@
     - [LeetCode - 888. Fair Candy Swap](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Array/888.%20Fair%20Candy%20Swap.md)
     - [LeetCode - 1582. Special Positions in a Binary Matrix](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Array/1582.%20Special%20Positions%20in%20a%20Binary%20Matrix.md)
     - [LeetCode - 884. Uncommon Words from Two Sentences.md](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/String/884.%20Uncommon%20Words%20from%20Two%20Sentences.md)
+    - [LeetCode - 1103. Distribute Candies to People](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/1103.%20Distribute%20Candies%20to%20People.md)
