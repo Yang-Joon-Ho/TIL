@@ -130,5 +130,5 @@
     - [LeetCode - 884. Uncommon Words from Two Sentences.md](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/String/884.%20Uncommon%20Words%20from%20Two%20Sentences.md)
     - [LeetCode - 1103. Distribute Candies to People](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/1103.%20Distribute%20Candies%20to%20People.md)
     - [Leetcode - 976. Largest Perimeter Triangle](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Array/976.%20Largest%20Perimeter%20Triangle.md)
-    - [LeetCode - 917. Reverse Only Letters](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/String/917.%20Reverse%20Only%20Letters(Python).md)
+    - [LeetCode - 917. Reverse Only Letters(python)](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/String/917.%20Reverse%20Only%20Letters(Python).md)
     - [LeetCode - 283. Move Zeroes(python)](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Array/283.%20Move%20Zeroes(python).md)
