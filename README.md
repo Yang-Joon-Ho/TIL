@@ -134,3 +134,4 @@
     - [LeetCode - 283. Move Zeroes(python)](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Array/283.%20Move%20Zeroes(python).md)
     - [LeetCode - 896. Monotonic Array](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Array/896.%20Monotonic%20Array.md)
     - [LeetCode - 1394. Find Lucky Integer in an Array](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Array/1394.%20Find%20Lucky%20Integer%20in%20an%20Array.md)
+    - [LeetCode - 1608. Special Array With X Elements Greater Than or Equal X](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Array/*1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.md)
