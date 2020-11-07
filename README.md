@@ -138,3 +138,4 @@
     - [LeetCode - 122. Best Time to Buy and Sell Stock II](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Math/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
     - [LeetCode - 1331. Rank Transform of an Array](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Array/1331.%20Rank%20Transform%20of%20an%20Array.md)
     - [LeetCode - 389. Find the Difference](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/String/389.%20Find%20the%20Difference.md)
+    - [LeetCode - 696. Count Binary Substrings](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Array/696.%20Count%20Binary%20Substrings.md)
