@@ -139,3 +139,4 @@
     - [LeetCode - 1331. Rank Transform of an Array](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Array/1331.%20Rank%20Transform%20of%20an%20Array.md)
     - [LeetCode - 389. Find the Difference](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/String/389.%20Find%20the%20Difference.md)
     - [**LeetCode - 696. Count Binary Substrings](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Array/696.%20Count%20Binary%20Substrings.md)
+    - [LeetCode - 171. Excel Sheet Column Number](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Math/171.%20Excel%20Sheet%20Column%20Number.md)
