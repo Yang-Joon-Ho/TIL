@@ -142,3 +142,4 @@
     - [LeetCode - 171. Excel Sheet Column Number](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Math/171.%20Excel%20Sheet%20Column%20Number.md)
     - [LeetCode - 1137. N-th Tribonacci Number](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Math/1137.%20N-th%20Tribonacci%20Number.md)
     - [**LeetCode - 448. Find All Numbers Disappeared in an Array](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Math/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)
+    - [**LeetCode - 1422. Maximum Score After Splitting a String](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Math/**1422.%20Maximum%20Score%20After%20Splitting%20a%20String.md)
