@@ -145,3 +145,4 @@
     - [**LeetCode - 1422. Maximum Score After Splitting a String](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Math/**1422.%20Maximum%20Score%20After%20Splitting%20a%20String.md)
     - [LeetCode - 509. Fibonacci Number(java)](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Math/509.%20Fibonacci%20Number(java).md)
     - [LeetCode - 1266. Minimum Time Visiting All Points(java)](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Java/1266.%20Minimum%20Time%20Visiting%20All%20Points(java).md)
+    - [LeetCode - 1572. Matrix Diagonal Sum(java)](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Java/1572.%20Matrix%20Diagonal%20Sum(java).md)
