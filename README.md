@@ -144,3 +144,4 @@
     - [**LeetCode - 448. Find All Numbers Disappeared in an Array](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Math/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)
     - [**LeetCode - 1422. Maximum Score After Splitting a String](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Math/**1422.%20Maximum%20Score%20After%20Splitting%20a%20String.md)
     - [LeetCode - 509. Fibonacci Number(java)](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Math/509.%20Fibonacci%20Number(java).md)
+    - [LeetCode - 1266. Minimum Time Visiting All Points(java)](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Java/1266.%20Minimum%20Time%20Visiting%20All%20Points(java).md)
