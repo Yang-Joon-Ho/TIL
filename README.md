@@ -147,3 +147,4 @@
     - [LeetCode - 1266. Minimum Time Visiting All Points(java)](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Java/1266.%20Minimum%20Time%20Visiting%20All%20Points(java).md)
     - [LeetCode - 1572. Matrix Diagonal Sum(java)](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Java/1572.%20Matrix%20Diagonal%20Sum(java).md)
     - [LeetCode - 1021. Remove Outermost Parentheses(java)](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Java/1021.%20Remove%20Outermost%20Parentheses.md)
+    - [LeetCode - 888. Fair Candy Swap(java)](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Java/888.%20Fair%20Candy%20Swap(java).md)
