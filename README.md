@@ -151,4 +151,4 @@
     - [LeetCode - 1103. Distribute Candies to People(java)](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Java/1103.%20Distribute%20Candies%20to%20People(java).md)
     - [LeetCode - 70. Climbing Stairs](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Math/70.%20Climbing%20Stairs.md)
     - [LeetCode - 1496. Path Crossing](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Math/1496.%20Path%20Crossing.md)
-    - [LeetCode - 1446. Consecutive Characters](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Array/***1446.%20Consecutive%20Characters.md)
+    - [***LeetCode - 1446. Consecutive Characters](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Easy/Array/***1446.%20Consecutive%20Characters.md)
