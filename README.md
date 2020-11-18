@@ -92,7 +92,8 @@
   + #### LeetCode
   
   <br>
-  - [LeetCode](https://github.com/Yang-Joon-Ho/LeetCode)
+  
+  - [LeetCode ](https://github.com/Yang-Joon-Ho/LeetCode)
   
     - [LeetCode - Max Increase to Keep City Skyline](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/Max%20Increase%20to%20Keep%20City%20Skyline.md)
     - [LeetCode - 1395. Count Number of Teams](https://github.com/Yang-Joon-Ho/LeetCode/blob/master/1395.%20Count%20Number%20of%20Teams.md)
