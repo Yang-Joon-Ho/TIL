@@ -6,7 +6,7 @@
 + Flask
   - [flask 이메일 인증 회원가입 - 2020-07-28](flask/Flask&mongoDB이메일인증.md)
   - [flask 메모 기능 추가 - 2020-08-03](flask/메모기능추가.md)
-  
+  - [flask 예외처리 추가 + AWS 인스턴스 접속 불가 문제 해결](https://github.com/Yang-Joon-Ho/jusik/blob/master/Feedback/README.md)
 
 <br><br>
 
