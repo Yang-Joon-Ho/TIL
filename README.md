@@ -86,6 +86,7 @@
     - [프로그래머스 레벨2 - 카펫(복습)](https://github.com/Yang-Joon-Ho/programmers-level2/blob/master/%EC%B9%B4%ED%8E%AB(%EB%B3%B5%EC%8A%B5).md)
     - [프로그래머스 레벨 2 - 큰 수 만들기(복습)](https://github.com/Yang-Joon-Ho/programmers-level2/blob/master/%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(%EB%B3%B5%EC%8A%B5).md)
     - [프로그래머스 레벨 2- 조이스틱(복습)](https://github.com/Yang-Joon-Ho/programmers-level2/blob/master/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1(%EB%B3%B5%EC%8A%B5).md)
+    - [Cos pro 1차 - 5번](https://github.com/Yang-Joon-Ho/cos-pro-1/blob/master/1%EC%B0%A8-5%EB%B2%88.md)
     
   <br>
   
