@@ -89,6 +89,7 @@
     - [Cos pro 1차 - 5번](https://github.com/Yang-Joon-Ho/cos-pro-1/blob/master/1%EC%B0%A8-5%EB%B2%88.md)
     - [Cos pro 2차 - 4번](https://github.com/Yang-Joon-Ho/cos-pro-2/blob/main/4%EB%B2%88.md)
     - [Cos pro 2차 - 5번](https://github.com/Yang-Joon-Ho/cos-pro-2/blob/main/5%EB%B2%88.md)
+    - [Cos pro 2차 - 6번](https://github.com/Yang-Joon-Ho/cos-pro-2/blob/main/6%EB%B2%88.md)
   <br>
   
   + #### LeetCode
